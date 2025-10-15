@@ -1,3 +1,7 @@
 ## Sameer Jathavedan
 
-Hello! I am a Data Scientist and Machine Learning Engineer working at Ericsson, where I build large-scale AI and automation systems using deep learning, generative models, and MLOps infrastructure. I completed my master’s in Complex Adaptive Systems at Chalmers University of Technology, where my thesis at Zenseact AB explored vehicle localization using Graph Neural Networks and Transformers. Before that, I worked as a Software Engineer at OneConvergence, developing MLOps platforms and cloud-native systems for scalable AI deployment. My work blends deep learning research, open-source development, and applied engineering.
+Hello! I am a Data Scientist and Machine Learning Engineer working at Ericsson, where I build large-scale AI and automation systems using deep learning, generative models, and MLOps infrastructure. 
+
+I completed my master’s in Complex Adaptive Systems at Chalmers University of Technology, where my thesis at Zenseact AB explored vehicle localization using Graph Neural Networks and Transformers. Before that, I worked as a Software Engineer at OneConvergence, developing MLOps platforms and cloud-native systems for scalable AI deployment. 
+
+My work blends deep learning research, open-source development, and applied engineering.
