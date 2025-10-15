@@ -1,7 +1,3 @@
-Hello and welcome to this blog. Edit the `index.md` file to change this content. All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). You can include images:
+## Sameer Jathavedan
 
-![Image of fast.ai logo](images/logo.png)
-
-## This is a title
-
-And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
+Hello! I am a Data Scientist and Machine Learning Engineer working at Ericsson, where I build large-scale AI and automation systems using deep learning, generative models, and MLOps infrastructure. I completed my master’s in Complex Adaptive Systems at Chalmers University of Technology, where my thesis at Zenseact AB explored vehicle localization using Graph Neural Networks and Transformers. Before that, I worked as a Software Engineer at OneConvergence, developing MLOps platforms and cloud-native systems for scalable AI deployment. My work blends deep learning research, open-source development, and applied engineering.
