@@ -1,4 +1,4 @@
-I've been pushing myself to use coding assistants more aggressively in order to see what value we can extract from them. So far I've tried Codium (before it got acquired), Github Copilot, Cursor, Claude Code and Amazon Q. Here are some lessons I've learned from using them:
+I've been trying out coding assistants more aggressively in order to see what value we can extract from them. So far I've tried Codium (before it got acquired), Github Copilot, Cursor, Claude Code and Amazon Q. Here are some lessons I've learned from using them:
 
 ## 1. Enable Tab Completions
 
