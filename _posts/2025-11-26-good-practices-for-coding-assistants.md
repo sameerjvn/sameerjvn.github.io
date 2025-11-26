@@ -8,7 +8,7 @@ There are definitely times where the assistant fills up a function or a class de
 
 Unfortunately this is not a feature in all coding assistants. My favourite one so far is Claude Code but it doesn't have tab completions. You win some, you lose some.
     
-## 2. Write a `RULES.md` for your repo
+## 2. Write a RULES.md for your repo
 
 Different assistants do this differently, but almost all assistants read some file and pulls context when you start a conversation. Claude Code does it with a `CLAUDE.md`, Amazon Q reads `.amazonq/RULES.md`. Add as many instructions as you can here so it knows exactly how to code. 
 
