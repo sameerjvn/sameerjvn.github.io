@@ -1,5 +1,7 @@
 Hello! I am a Data Scientist and Machine Learning Engineer. I build scalable AI systems and dig into the internals of deep learning models.
 
+<img src="images/looking-left.jpeg" style="width: 30%; height: auto;"/>
+
 I'm currently working at Ericsson, where I develop AI automation systems to simplify the production of embedded software for [Ericsson radios](https://www.ericsson.com/en/portfolio/networks/ericsson-radio-system).
 
 Previously, I worked as a Software Engineer at OneConvergence, developing [DKube](https://www.dkube.io/), an MLOps platform to simplify data science workflows.
