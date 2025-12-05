@@ -1,4 +1,4 @@
-Hello! I am a Data Scientist and Machine Learning Engineer. I build scalable AI systems and dig into deep learning internals.
+Hello! I am a Data Scientist and Machine Learning Engineer. I build scalable AI systems and dig into the internals of deep learning models.
 
 I'm currently working at Ericsson, where I develop AI automation systems to simplify the production of embedded software for [Ericsson radios](https://www.ericsson.com/en/portfolio/networks/ericsson-radio-system).
 
