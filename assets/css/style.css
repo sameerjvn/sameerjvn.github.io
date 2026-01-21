@@ -20,6 +20,46 @@
   min-width: 250px;
 }
 
+/* Posts section */
+.posts {
+  margin-top: 3rem;
+}
+
+.posts h2 {
+  border-bottom: 2px solid #eee;
+  padding-bottom: 0.5rem;
+}
+
+.post-list {
+  list-style: none;
+  padding: 0;
+}
+
+.post-item {
+  margin-bottom: 1rem;
+  padding: 1rem;
+  border: 1px solid #eee;
+  border-radius: 5px;
+}
+
+.post-title {
+  margin: 0 0 0.5rem 0;
+}
+
+.post-title a {
+  text-decoration: none;
+  color: #333;
+}
+
+.post-title a:hover {
+  color: #0066cc;
+}
+
+.post-date {
+  color: #666;
+  font-size: 0.9rem;
+}
+
 /* Mobile responsiveness */
 @media (max-width: 768px) {
   .hero {
