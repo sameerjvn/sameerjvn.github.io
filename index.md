@@ -5,7 +5,7 @@ title: Home
 
 <div class="hero">
 
-<img src="/assets/images/looking-left.jpeg"
+<img src="/images/looking-left.jpeg"
      alt="Profile photo"
      class="hero-image" />
 
