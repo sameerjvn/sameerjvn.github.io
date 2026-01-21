@@ -3,7 +3,7 @@ layout: home
 ---
 
 <div style="text-align: center; margin-bottom: 2rem;">
-  <img src="/assets/images/looking-left.jpeg" alt="Profile photo" style="width: 200px; border-radius: 8px;" />
+  <img src="/assets/images/looking-left.jpeg" alt="Profile photo" style="width: 250px; border-radius: 8px;" />
 </div>
 
 Hello! I am a Data Scientist and Machine Learning Engineer. I build scalable AI systems and dig into the internals of deep learning models.
